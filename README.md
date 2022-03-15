@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **React JS**
 
-- 💬 Ask me about **Android, Python, C#**
+- 💬 Ask me about **Android, Java, Python, C#**
 
 - 📫 How to reach me **jan.marunowski@gmail.com**
 
