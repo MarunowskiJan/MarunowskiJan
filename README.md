@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/janmarunowski" target="blank"><img src="https://img.shields.io/twitter/follow/janmarunowski?logo=twitter&style=for-the-badge" alt="janmarunowski" /></a> </p>
 
-- 🔭 I’m currently working on **-**
+- 🔭 I’m currently working on **Engineering project ;)**
 
 - 🌱 I’m currently learning **React JS**
 
