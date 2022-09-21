@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Engineering project ;)**
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **Angular + TypeScript**
 
 - 💬 Ask me about **Android, Java, Python, C#**
 
