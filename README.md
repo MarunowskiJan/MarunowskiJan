@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Angular + TypeScript**
 
-- 💬 Ask me about **Android, Java, Python, C#**
+- 💬 Ask me about **Java, Spring, Angular, TypeScript, Android, Python, C#**
 
 - 📫 How to reach me **jan.marunowski@gmail.com**
 
