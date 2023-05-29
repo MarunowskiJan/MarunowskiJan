@@ -1,6 +1,6 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Jan Marunowski</h1>
-<h3 align="center">I live in Poland. I'm studying programming on a daily basis. I'm in my third years at university. I really enjoy learning languages and frameworks like React.</h3>
+<h3 align="center">I live in Poland. I'm studying programming on a daily basis. I'm in my third years at university. I really enjoy learning languages and frameworks like Spring.</h3>
 
 <img align="right" alt = "Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Angular + TypeScript**
 
-- 💬 Ask me about **Java, Spring, Angular, TypeScript, Android, Python, C#**
+- 💬 Ask me about **Java, Spring Boot, Angular, TypeScript, Android, Python, C#**
 
 - 📫 How to reach me **jan.marunowski@gmail.com**
 
